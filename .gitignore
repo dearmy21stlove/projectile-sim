@@ -1,0 +1,14 @@
+*.asv
+*.m~
+*.autosave*
+*.slxc
+slprj/
+codegen/
+
+# Compiled binaries
+*.mex*
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
